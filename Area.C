@@ -1,3 +1,4 @@
+//Area of a rectangle using scanf
 #include<stdio.h>
 int main()
 {
