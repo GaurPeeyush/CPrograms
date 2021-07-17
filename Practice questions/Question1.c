@@ -1,3 +1,6 @@
+//C program to display the results
+//To pass in examination, student muust score atlest 33% in each subject and overall 40%.
+//Take only three subjects and write the program!
 #include <stdio.h>
 int main()
 {
