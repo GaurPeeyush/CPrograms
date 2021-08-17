@@ -1,4 +1,4 @@
-//To check whether the entered character is in lower case or not
+//To check whether the entered character is in lower case or not 
 #include<stdio.h>
 int main()
 {
