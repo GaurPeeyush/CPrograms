@@ -2,7 +2,7 @@
 //Write a function and pass the value by reference
 #include<stdio.h>
 void fun(int *a, int *b){
-    *b = 100*(*a);
+    *b = 10*(*a);
 }
 int main(){
     int a = 20, b;
