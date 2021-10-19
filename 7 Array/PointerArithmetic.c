@@ -6,7 +6,7 @@ int main(){
     printf("The value of ptr is %u\n", ptr);
     ptr++; // or ptr = ptr + 1
     printf("The value of ptr++ is %u\n", ptr);
-    char c = 45; // size of character is 1 byte
+    char c = '45'; // size of character is 1 byte
     char * ptr_ch;
     ptr_ch = &c;
     printf("The value of ptr_ch is %u\n", ptr_ch);
