@@ -8,7 +8,7 @@ int main()
     scanf("%d", &size);
     int arr[size];
     for(int i=0; i<size; i++){
-        printf("Enter the size of elements of array: \n");
+        printf("Enter the value of elements: \n");
         scanf("%d", &arr[i]);
     }
     printf("The reversed array is: \n");
